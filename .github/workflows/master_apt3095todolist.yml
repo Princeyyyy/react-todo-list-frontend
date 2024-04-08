@@ -59,4 +59,4 @@ jobs:
           app-name: 'apt3095todolist'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_BA9AF5456EF646A8BADE3B5D63FA6DDB }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E31327F2FE3947518839A9FAD6A9053C }}
